@@ -1,0 +1,2 @@
+# QML_Data-Acquisition-Interface
+利用 QML 进行客户端界面设计，添加了数据采集和系统调试的功能模块，通过ListView和Flickable实现控件布局和页面滑动功能，构建类实现文件访问，使用了Loader，Popup，js函数实现组件的动态加载和功能嵌套，利用StackView实现多页面切换，使用Settings控件实现数据操作后的自动存储等；通过信号与槽机制丰富了控件和鼠标的属性动画效果，通过 C++ 编程实现和后台连接的功能。
